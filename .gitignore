@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Simulation output
+*.xdmf
+*.vtk
+*.h5
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environments
+.venv/
+env/
+venv/
